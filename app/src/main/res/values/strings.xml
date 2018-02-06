@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ClientOrderList</string>
+       <string name="main_activity_name">All Orders</string>
+    <string name="add_order_activity_name">Add a New Order</string>
+    <string name="edit_order_activity_name">Edit an Order</string>
+    <!-- Strings for MainActivity -->
+    <string name="priority_1">1</string>
+    <string name="priority_2">2</string>
+    <string name="priority_3">3</string>
+
+    <!-- Strings for AddOrderActivity -->
+    <!-- This edit order has a unicode character for "..." = "&#8230;" -->
+    <string name="edit_order_description">Describe your order&#8230;</string>
+    <string name="priority_string">Priority</string>
+
+    <string name="high_priority">High</string>
+    <string name="med_priority">Medium</string>
+    <string name="low_priority">Low</string>
+
+    <string name="add_button">Add</string>
+    <string name="edit_button">Save</string>
+</resources>
